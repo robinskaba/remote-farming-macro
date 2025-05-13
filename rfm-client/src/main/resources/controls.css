@@ -1,0 +1,16 @@
+.button {
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-border-style: solid;
+    -fx-background-color: red;
+    -fx-border-insets: 0;
+}
+
+.selected {
+    -fx-background-color: lime;
+    -fx-font-weight: bold;
+}
+
+.paused {
+    -fx-background-color: gray;
+}
